@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Some articles I've written](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/0xdonut)
+### Latest articles I've written on DEV.to
+<a href="https://dev.to/0xdonut">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mr F.'s DEV Profile" height="30" width="30">
+</a>
 <!-- BLOG-POST-LIST:START -->
 - [How to install Flutter on macOS using homebrew and asdf](https://dev.to/0xdonut/how-to-install-flutter-on-macos-using-homebrew-and-asdf-3loa)
 - [Visual Studio Code extensions to help your productivity](https://dev.to/0xdonut/visual-studio-code-extensions-to-help-your-productivity-50d8)
