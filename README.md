@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [How to install Flutter on macOS using homebrew and asdf](https://dev.to/0xdonut/how-to-install-flutter-on-macos-using-homebrew-and-asdf-3loa)
+- [Visual Studio Code extensions to help your productivity](https://dev.to/0xdonut/visual-studio-code-extensions-to-help-your-productivity-50d8)
+- [Why and how you should migrate from Visual Studio Code to VSCodium](https://dev.to/0xdonut/why-and-how-you-should-to-migrate-from-visual-studio-code-to-vscodium-j7d)
+- [Manage your runtime environments using ASDF and not NVM or RVM etc...](https://dev.to/0xdonut/manage-your-runtime-environments-using-asdf-and-not-nvm-or-rvm-etc-2c7c)
+- [Awesome Terminal upgrades - Part Four: Make your your macOS terminal look slick](https://dev.to/0xdonut/awesome-terminal-upgrades-part-four-make-your-your-macos-terminal-look-slick-5ho3)
+<!-- BLOG-POST-LIST:END -->
