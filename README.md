@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://read-me-stats.fazal.vercel.app/api/top-langs/?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)
+[![Top Langs](https://read-me-stats.fazal.vercel.app/api/top-langs/?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true&layout=compact)](https://github.com/Demwunz/github-readme-stats)
 
 ---
 
-[![demwunz's wakatime stats](https://read-me-stats.fazal.vercel.app/api/wakatime?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)
+[![demwunz's wakatime stats](https://read-me-stats.fazal.vercel.app/api/wakatime?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true&layout=compact)](https://github.com/Demwunz/github-readme-stats)
