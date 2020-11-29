@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 #### Here are the latest articles I've written at DEV.to
 <a href="https://dev.to/0xdonut">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mr F.'s DEV Profile" height="30" width="30">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Mr F.'s DEV Profile" height="30" width="30">
 </a>
 
 <!-- BLOG-POST-LIST:START -->
@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 - [Manage your runtime environments using ASDF and not NVM or RVM etc...](https://dev.to/0xdonut/manage-your-runtime-environments-using-asdf-and-not-nvm-or-rvm-etc-2c7c)
 - [Awesome Terminal upgrades - Part Four: Make your your macOS terminal look slick](https://dev.to/0xdonut/awesome-terminal-upgrades-part-four-make-your-your-macos-terminal-look-slick-5ho3)
 <!-- BLOG-POST-LIST:END -->
-
-[![Demwunz github stats](https://github-readme-stats.vercel.app/api?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Demwunz github stats](https://read-me-stats.fazal.vercel.app/api?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)
+---
+[![Top Langs](https://read-me-stats.fazal.vercel.app/api/top-langs/?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)
