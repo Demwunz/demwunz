@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Here are the latest articles I've written at DEV.to
+#### <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Mr F.'s DEV Profile"> Here are the latest articles I've written at DEV.to
 <a href="https://dev.to/0xdonut">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Mr F.'s DEV Profile" height="30" width="30">
+  
 </a>
 
 <!-- BLOG-POST-LIST:START -->
