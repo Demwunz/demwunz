@@ -37,6 +37,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![willianrod's wakatime stats](https://read-me-stats.fazal.vercel.app/api/wakatime?username=demwunz)](https://github.com/Demwunz/github-readme-stats)
-
-<!--START_SECTION:activity--><!--END_SECTION:activity-->
+[![demwunz's wakatime stats](https://read-me-stats.fazal.vercel.app/api/wakatime?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)
