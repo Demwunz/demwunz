@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - [Awesome Terminal upgrades - Part Four: Make your your macOS terminal look slick](https://dev.to/0xdonut/awesome-terminal-upgrades-part-four-make-your-your-macos-terminal-look-slick-5ho3)
 <!-- BLOG-POST-LIST:END -->
 
-[![Demwunz github stats](https://github-readme-stats.vercel.app/api?username=demwunz&count_private=true&show_icons=&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Demwunz github stats](https://github-readme-stats.vercel.app/api?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
