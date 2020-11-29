@@ -26,7 +26,12 @@ Here are some ideas to get you started:
 - [Manage your runtime environments using ASDF and not NVM or RVM etc...](https://dev.to/0xdonut/manage-your-runtime-environments-using-asdf-and-not-nvm-or-rvm-etc-2c7c)
 - [Awesome Terminal upgrades - Part Four: Make your your macOS terminal look slick](https://dev.to/0xdonut/awesome-terminal-upgrades-part-four-make-your-your-macos-terminal-look-slick-5ho3)
 <!-- BLOG-POST-LIST:END -->
+
 ---
 [![Demwunz github stats](https://read-me-stats.fazal.vercel.app/api?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)
 ---
+
 [![Top Langs](https://read-me-stats.fazal.vercel.app/api/top-langs/?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)
+---
+
+<!--START_SECTION:activity--><!--END_SECTION:activity-->
