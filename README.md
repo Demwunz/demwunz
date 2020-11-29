@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 ---
 
-
+|           |               |
+|-----------|---------------|
 | [![Demwunz github stats](https://read-me-stats.fazal.vercel.app/api?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)   |      [![Top Langs](https://read-me-stats.fazal.vercel.app/api/top-langs/?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats)      |
+
 
 
 <!--START_SECTION:activity--><!--END_SECTION:activity-->
