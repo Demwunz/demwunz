@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####  Latest Articles I've written
+####  Articles I've written
 <a href="https://dev.to/0xdonut">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Mr F.'s DEV Profile">
 </a>
@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 
 <!-- [![Demwunz github stats](https://read-me-stats.fazal.vercel.app/api?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/Demwunz/github-readme-stats) [![Top Langs](https://read-me-stats.fazal.vercel.app/api/top-langs/?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true&layout=compact)](https://github.com/Demwunz/github-readme-stats) -->
 
----
 
 <!-- [![demwunz's wakatime stats](https://read-me-stats.fazal.vercel.app/api/wakatime?username=demwunz&count_private=true&show_icons=true&theme=graywhite&hide_border=true&layout=compact)](https://github.com/Demwunz/github-readme-stats) -->
