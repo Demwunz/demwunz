@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazal</h1>
 <h3 align="center">Lead developer</h3>
 
-- 👨‍💻 All of my projects are available at [https:/git.io/D](https:/git.io/D)
+- 👨‍💻 All of my projects are available at [https://git.io/D](https:/git.io/D)
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
