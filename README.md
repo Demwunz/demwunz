@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fazal</h1>
 <h3 align="center">Lead developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://git.io/D](https://git.io/D)
+- 👨‍💻 All of my projects are available at [git.io/D](https://git.io/D)
 
-- 📝 I have writenn technical articles on [dev.to](https://dev.to/0xdonut)
+- 📝 I have writen technical articles on [dev.to](https://dev.to/0xdonut)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
