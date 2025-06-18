@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://git.io/D](https://git.io/D)
 
-- 📝 I regularly write articles on [https://dev.to](dev.to)
+- 📝 I have writenn technical articles on [dev.to](https://dev.to/0xdonut)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
