@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fazal</h1>
-<h3 align="center">Lead Developer >> Agentic Engineer</h3>
+<h3 align="center">Agentic Engineer</h3>
 
 <p align="center">
-  📍 London
+  📍 UK
 </p>
 
 <p align="center">
