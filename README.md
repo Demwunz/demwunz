@@ -17,18 +17,18 @@
 
 ### Current Projects
 
-| Project | Description |
-|---------|-------------|
-| [arx](https://github.com/demwunz/arx) | Conventional Commits for decisions — structured journal that tracks the lifecycle of decisions made during AI sessions |
-| [cc-statusline](https://github.com/demwunz/cc-statusline) | Lightweight statusline for Claude Code showing context token usage and spend |
-| [claude-context-doctor](https://github.com/demwunz/claude-context-doctor) | TUI tool to diagnose and optimize your Claude Code context usage |
+📜 **[arx](https://github.com/demwunz/arx)** – Conventional Commits for decisions (tracks lifecycle of decisions made during AI sessions)
+
+📊 **[cc-statusline](https://github.com/demwunz/cc-statusline)** – Claude Code statusline showing context token usage and spend
+
+🩺 **[claude-context-doctor](https://github.com/demwunz/claude-context-doctor)** – TUI to diagnose and optimize Claude Code context usage
 
 ---
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/demwunz" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demwunz&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
