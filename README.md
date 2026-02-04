@@ -17,9 +17,9 @@
 
 ### Current Projects
 
-- <img src="https://cdn.simpleicons.org/refinedgithub" height="16" /> **[arx](https://github.com/demwunz/arx)** – Conventional Commits for decisions (tracks lifecycle of decisions made during AI sessions)
-- <img src="https://cdn.simpleicons.org/gnubash" height="16" /> **[cc-statusline](https://github.com/demwunz/cc-statusline)** – Claude Code statusline showing context token usage and spend
-- <img src="https://cdn.simpleicons.org/gnubash" height="16" /> **[claude-context-doctor](https://github.com/demwunz/claude-context-doctor)** – TUI to diagnose and optimize Claude Code context usage
+- <img src="https://cdn.simpleicons.org/conventionalcommits/000000" height="16" /> **[arx](https://github.com/demwunz/arx)** – Conventional Commits for decisions (tracks lifecycle of decisions made during AI sessions)
+- <img src="https://cdn.simpleicons.org/gnubash/000000" height="16" /> **[cc-statusline](https://github.com/demwunz/cc-statusline)** – Claude Code statusline showing context token usage and spend
+- <img src="https://cdn.simpleicons.org/gnubash/000000" height="16" /> **[claude-context-doctor](https://github.com/demwunz/claude-context-doctor)** – TUI to diagnose and optimize Claude Code context usage
 
 ---
 
