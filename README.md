@@ -16,7 +16,7 @@
 
 ### Current Projects
 
-- <img src="https://cdn.simpleicons.org/rust/0000FF" height="16" /> **[atlas](https://github.com/demwunz/atlas)** – Fast codebase indexer and file selector for LLM context windows
+- <img src="https://cdn.simpleicons.org/gnubash/0000FF" height="16" /> **[atlas](https://github.com/demwunz/atlas)** – Fast codebase indexer and file selector for LLM context windows
 - <img src="https://cdn.simpleicons.org/conventionalcommits/0000FF" height="16" /> **[arx](https://github.com/demwunz/arx)** – Conventional Commits for decisions (tracks lifecycle of decisions made during AI sessions)
 - <img src="https://cdn.simpleicons.org/gnubash/0000FF" height="16" /> **[Claude code statusline](https://github.com/demwunz/cc-statusline)** – Claude Code statusline showing context token usage and spend
 - <img src="https://cdn.simpleicons.org/gnubash/0000FF" height="16" /> **[Claude context doctor](https://github.com/demwunz/claude-context-doctor)** – TUI to diagnose and optimize Claude Code context usage
