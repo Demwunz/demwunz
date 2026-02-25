@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fazal 👋</h1>
+https://github.com/Demwunz/pi-wobot<h1 align="center">Hi, I'm Fazal 👋</h1>
 <h3 align="center">Agentic Engineer</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### Current Projects
 
 - <img src="https://cdn.simpleicons.org/gnubash/0000FF" height="16" /> **[Etch](https://github.com/demwunz/etch)** – Fast, deterministic code edits for LLMs. Target by meaning. Apply atomically. 2ms per file.
-- <img src="https://cdn.simpleicons.org/typescript/0000FF" height="16" /> **[Pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)** extensions for the wobot tool ecosystem — [`topo`](https://github.com/Demwunz/topo), [`etch`](https://github.com/Demwunz/etch), and [`arx`](https://github.com/Demwunz/arx).
+- <img src="https://cdn.simpleicons.org/typescript/0000FF" height="16" /> **[Pibot](https://github.com/Demwunz/pi-wobot)** [Pi](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) extensions for the wobot tool ecosystem — [`topo`](https://github.com/Demwunz/topo), [`etch`](https://github.com/Demwunz/etch), and [`arx`](https://github.com/Demwunz/arx).
   
 - <img src="https://cdn.simpleicons.org/gnubash/0000FF" height="16" /> **[Topo](https://github.com/demwunz/topo)** – Codebase intelligence for AI tools and developers. Instant. Precise. Fully local.
 - <img src="https://cdn.simpleicons.org/conventionalcommits/0000FF" height="16" /> **[Arx](https://github.com/demwunz/arx)** – Conventional Commits for decisions (tracks lifecycle of decisions made during AI sessions)
