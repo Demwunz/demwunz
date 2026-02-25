@@ -22,13 +22,6 @@ https://github.com/Demwunz/pi-wobot<h1 align="center">Hi, I'm Fazal 👋</h1>
 - <img src="https://cdn.simpleicons.org/gnubash/0000FF" height="16" /> **[Claude code statusline](https://github.com/demwunz/cc-statusline)** – Claude Code statusline showing context token usage and spend
 - <img src="https://cdn.simpleicons.org/gnubash/0000FF" height="16" /> **[Claude context doctor](https://github.com/demwunz/claude-context-doctor)** – TUI to diagnose and optimize Claude Code context usage
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=demwunz&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
